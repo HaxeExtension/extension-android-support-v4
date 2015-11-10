@@ -1,0 +1,10 @@
+{
+        "name": "extension-android-support-v4",
+        "url": "https://github.com/sempaigames/extension-android-support-v4",
+        "license": "MIT",
+        "contributors":["fbricker"],
+        "tags": ["android-support-v4","v4","support","android","nme","openfl"],
+        "description": "OpenFL/NME extension that includes android-support-v4.jar for other extensions.",
+        "version": "1.0.0",
+        "releasenote": "First release"
+}
