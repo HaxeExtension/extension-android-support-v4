@@ -1,10 +1,10 @@
-#extension-android-support-v4
+# extension-android-support-v4
 
 OpenFL extension that simply adds Android Support Library (android-support-v4.jar) into your project [for android targets].
 
 This library does not provide any functionality, since it's intended to be used by other libraries (such as Google AdMob, Facebook Ads, Extension-Facebook, etc).
 
-###How to Install
+### How to Install
 
 To install this library, you can simply get the library from haxelib like this:
 ```bash
@@ -19,7 +19,7 @@ $ANDROID_SDK/tools/android
 Then select *Android Support Library* under the "Extras" section.
 
 
-###How to use this to build an extension
+### How to use this to build an extension
 
 If you're developing extensions or implementing features that requires Android Support Library, you just need to add ```<haxelib name="extension-android-support-v4" />``` into your project.xml.
 
@@ -37,13 +37,13 @@ android.library.reference.1=../extension-api
 android.library.reference.2=../android-support-v4
 ```
 
-###Disclaimer
+### Disclaimer
 
 Android is a registered trademark of Android Industries, L.L.C.
 http://unibrander.com/united-states/212852US/android.html
 
 
-###License
+### License
 
 The MIT License (MIT) - [LICENSE.md](LICENSE.md)
 
